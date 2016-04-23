@@ -22,7 +22,6 @@ int main()
 	printf("%d+%d=%d\n", a,b,c);
 	return 0;
 }
-
 //int是返回数据类型，因为a+b是int类型，所以函数返回也是int型
 int test(int a,int b){
 	return a+b;
